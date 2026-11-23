@@ -15,7 +15,7 @@ All About Eve is kind of a mess.
 
 I believe the film is trying to tell a story about female empowerment while incorporating villains, manipulation, and elaborate schemes. Unfortunately, I don't think it executes that combination particularly well.
 
-Some people might interpret *All About Eve* as an exploration of the psychological consequences of working in performance, particularly the toll it can take on one's mental health and sense of identity. However, I would argue that the struggles Margo describes, especially dedicating herself so completely to her profession that she feels disconnected from her true self, are applicable to virtually anyone who becomes overly consumed by their career. There's nothing inherently exclusive to actors or artists about losing yourself in your work.
+Some people might interpret *All About Eve* as an exploration of the psychological consequences of working in performance, particularly the toll it can take on one's mental health and sense of identity. However, I would argue that a lot of the struggles Margo describes over dedicating herself so completely to her profession that she feels disconnected from her true self, are applicable to virtually anyone who becomes overly consumed by their career. There's nothing inherently exclusive to actors or artists about losing yourself in your work.
 
 Where Margo's profession as an actress actually becomes relevant is in the film's exploration of beauty standards. As an actress, she faces particularly intense beauty standards and the pressure of aging in an industry that places so much value on women's appearances. This is where the film begins to intertwine its commentary on career ambition with its treatment of womanhood.
 
