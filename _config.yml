@@ -12,3 +12,9 @@ collections:
   rankings:
     output: true
     permalink: /rankings/:name/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
