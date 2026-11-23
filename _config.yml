@@ -4,3 +4,11 @@ description: Film reviews, personal rankings, and thoughts on cinema.
 theme: minima
 url: "https://bruna727.github.io"
 baseurl: "/cinema"
+
+collections:
+  films:
+    output: true
+    permalink: /films/:name/
+  rankings:
+    output: true
+    permalink: /rankings/:name/
