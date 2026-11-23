@@ -6,9 +6,10 @@ films:
   - All About Eve
 main_review: true
 image: /cinema/assets/uploads/image-w1280-2.jpg
-description: All About Eve remains entreteining enough as a casual watch and an
-  insight about the consequences of being a very career focused person but falls
-  flat in its attempts of a deeper story about female empowerment
+description: All About Eve remains entertaining enough as a casual watch and
+  offers an insightful look at the consequences of becoming overly consumed by
+  one's career, but ultimately falls short in its attempt to tell a deeper story
+  about female empowerment.
 ---
 All About Eve is kind of a mess.
 
