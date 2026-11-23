@@ -47,4 +47,4 @@ However, there's one unfortunate detail: Karen is Margo's only close female frie
 
 Despite that, I still find their friendship incredibly wholesome and enjoyable to watch. Their affection and loyalty feel genuine, and their relationship remains one of the film's greatest strengths.
 
-Ultimately, it's this portrayal of female friendship, combined with the fact that the film's intrigues remain entertaining despite my problems with their execution and implications, that makes me give All About Eve 6,5/10 rather than a lower rating.
+Ultimately, *All About Eve* earns a 6.5/10 from me rather than a lower rating for several reasons. Its intrigues remain entertaining despite my issues with their execution and implications, and the friendship between Margo and Karen is genuinely wholesome. While its exploration of the consequences of career obsession is merely decent, it's elevated by Bette Davis's wonderful performance and charisma.
