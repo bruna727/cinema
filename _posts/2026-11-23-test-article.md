@@ -4,7 +4,7 @@ date: 2026-11-23
 category: Film Review
 films:
   - All About Eve
-main_review: false
+main_review: true
 image: /cinema/assets/uploads/image-w1280-2.jpg
 description: provisory description
 ---
