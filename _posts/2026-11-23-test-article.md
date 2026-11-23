@@ -19,7 +19,9 @@ Where Margo's profession as an actress actually becomes relevant is in the film'
 
 I actually think Margo's struggle with having become so absorbed in her career that she's forgotten how to live a life beyond it is handled very well, and Bette Davis portrays her emotional breakdowns marvelously.
 
-The film starts by portraying Margo as unnecessarily hostile toward Eve, initially because she suspects Eve is trying to steal her boyfriend, and later simply because she finds her irritating and is jealous of her youth. However, the story eventually validates Margo's paranoia and rude behavior by revealing that Eve really does have ulterior motives. The problem is that Margo had no legitimate reason to know this beforehand. She merely happened to be correct, and her prior hostility, rooted in patriarchally conditioned jealousy, is retrospectively vindicated by sheer coincidence.
+My problems with the film begin here:
+
+First of all, the film starts by portraying Margo as unnecessarily hostile toward Eve, initially because she suspects Eve is trying to steal her boyfriend, and later simply because she finds her irritating and is jealous of her youth. However, the story eventually validates Margo's paranoia and rude behavior by revealing that Eve really does have ulterior motives. The problem is that Margo had no legitimate reason to know this beforehand. She merely happened to be correct, and her prior hostility, rooted in patriarchally conditioned jealousy, is retrospectively vindicated by sheer coincidence.
 
 What initially seemed like a grounded examination of female beauty standards, aging, and the rivalry between women encouraged by the patriarchy suddenly becomes a story filled with schemes, betrayals, and dramatic plot twists. I have to admit this was somewhat disappointing, as it felt like the film had abruptly turned into a Mexican telenovela. The intrigues are entertaining enough, though, and my biggest problems lie elsewhere: primarily in the resolution of Margo's character arc and, to a lesser but still noticeable extent, the film's treatment of female ambition.
 
