@@ -33,7 +33,7 @@ Margo finds happiness through marriage, seemingly abandoning the insecurities su
 
 Do you see the pattern?
 
-None of these choices would necessarily be problematic in isolation. There's nothing inherently wrong with a movie portraying a woman finding happiness in marriage, being a housewife, or pursuing professional success through morally questionable means. But when all these portrayals are presented together, they paint a troubling picture. The film, presumably unintentionally, either demonizes female professional ambition or fails to offer a convincing example of a woman finding genuine fulfillment outside traditional romantic expectations.
+None of these choices would necessarily be problematic in isolation. There's nothing inherently wrong with a story portraying a woman finding happiness in marriage, being a housewife, or pursuing professional success through morally questionable means. But when all these portrayals are presented together, they paint a troubling picture. The film, presumably unintentionally, either demonizes female professional ambition or fails to offer a convincing example of a woman finding genuine fulfillment outside traditional romantic expectations.
 
 The most baffling example by far is Margo's conclusion. She already had loyal, supportive friends, particularly Karen, and was already in a loving relationship with Bill. She wasn't lacking companionship, affection, or emotional support. Of course, having these things doesn't automatically make someone emotionally secure, but the film never convincingly explains what changes for her to suddenly overcome her insecurities.
 
