@@ -12,7 +12,7 @@ content:
     fields:
       - { name: title, type: string, required: true }
       - { name: year, type: number }
-      - { name: rating, type: number, options: { min: 0, max: 10 } }
+      - { name: rating, type: string }
       - { name: image, type: image }
 
   - name: articles
