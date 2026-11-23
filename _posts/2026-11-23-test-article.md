@@ -19,7 +19,7 @@ Some people might interpret *All About Eve* as an exploration of the psychologic
 
 Where Margo's profession as an actress actually becomes relevant is in the film's exploration of beauty standards. As an actress, she faces particularly intense beauty standards and the pressure of aging in an industry that places so much value on women's appearances. This is where the film begins to intertwine its commentary on career ambition with its treatment of womanhood.
 
-I actually think Margo's struggle with having become so absorbed in her career that she's forgotten how to live a life beyond it is handled very well, and Bette Davis portrays her emotional breakdowns marvelously.
+I actually think Margo's struggle with having become so absorbed in her career that she's forgotten how to live a life beyond it is handled well, and Bette Davis portrays her emotional breakdowns marvelously.
 
 My problems with the film begin here:
 
