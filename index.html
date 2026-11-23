@@ -116,7 +116,7 @@ a.article-text:hover .article-title{color:var(--rose)}
       <span class="entry-number">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
       <time class="date" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d %b %Y' | upcase }}</time>
       <a href="{{ post.url | relative_url }}" class="article-text"><div class="article-type">{{ post.category | default: 'FILM ESSAY' }}</div><h3 class="article-title">{{ post.title | escape }}</h3><p class="article-summary">{{ post.description | default: post.excerpt | strip_html | truncate: 105 }}</p></a>
-      {% if post.image %}<a href="{{ post.url | relative_url }}"><img class="thumb" src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}"></a>{% else %}<div class="thumb" style="background:#352934" aria-hidden="true"></div>{% endif %}
+      {% if post.image %}<a href="{{ post.url | relative_url }}"><img class="thumb" src="{{ post.image }}" alt="{{ post.title | escape }}"></a>{% else %}<div class="thumb" style="background:#352934" aria-hidden="true"></div>{% endif %}
       <a href="{{ post.url | relative_url }}" class="link-arrow" aria-label="Read {{ post.title | escape }}">↗</a>
     </article>
     {% endfor %}
