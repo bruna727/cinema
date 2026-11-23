@@ -1,0 +1,58 @@
+
+media:
+  input: assets/uploads
+  output: /cinema/assets/uploads
+
+content:
+  - name: films
+    label: Films
+    type: collection
+    path: _films
+    filename: "{primary}.md"
+    fields:
+      - { name: title, type: string, required: true }
+      - { name: year, type: number }
+      - { name: rating, type: number, options: { min: 0, max: 10 } }
+      - { name: image, type: image }
+
+  - name: articles
+    label: Articles
+    type: collection
+    path: _posts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    fields:
+      - { name: title, type: string, required: true }
+      - { name: date, type: date }
+      - name: category
+        type: select
+        options:
+          values: [Film Review, Character Analysis, Film Essay, Other]
+      - name: films
+        label: Related Films
+        type: reference
+        options:
+          collection: films
+          multiple: true
+          value: "{primary}"
+          label: "{primary}"
+      - { name: main_review, label: Main Review, type: boolean }
+      - { name: image, type: image }
+      - { name: description, type: text }
+      - { name: body, type: rich-text }
+
+  - name: rankings
+    label: Rankings
+    type: collection
+    path: _rankings
+    filename: "{primary}.md"
+    fields:
+      - { name: title, type: string, required: true }
+      - { name: description, type: text }
+      - name: films
+        label: Films in Ranking Order
+        type: reference
+        options:
+          collection: films
+          multiple: true
+          value: "{primary}"
+          label: "{primary}"
