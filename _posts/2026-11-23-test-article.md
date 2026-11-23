@@ -49,7 +49,7 @@ What makes Margo's conclusion even more frustrating is that it draws attention t
 
 *All About Eve* clearly makes an effort to present feminist ideas, with its female characters openly criticizing the expectations imposed on them by the patriarchy. Margo's speech in the car and Karen's reflections on realizing, even as a young girl, that her experience was different from that of boys are particularly clear examples. Yet Margo's ending made me reconsider how the film portrays its other female characters.
 
-Eve achieves professional success, but she's the villain, and her accomplishments remain subject to Addison's control. Phoebe, explicitly a high school student, appears at the end as a visual suggestion that the cycle of female rivalry and manipulation will continue indefinitely. Meanwhile, Karen, the only other prominent female character, is a housewife.
+Eve achieves professional success, but she's the villain, and her accomplishments remain subject to Addison's control. Phoebe, explicitly a high school student, appears at the end as a visual suggestion that the cycle of female rivalry and manipulation will continue indefinitely. Meanwhile, Karen, the only other prominent female character and Margo's only female friend in the story, is a housewife.
 
 Do you see the pattern?
 
@@ -59,12 +59,4 @@ But once the film presents marriage as the apparent solution to Margo's insecuri
 
 It's this broader pattern, which I might never have noticed without Margo's ending, that makes the film's feminist message feel so contradictory to me.
 
-There is, however, one genuinely positive aspect of the film's portrayal of women: the friendship and sisterhood between Margo and Karen.
-
-Karen consistently supports Margo emotionally and even defends her against Lloyd when he wants to give Eve a role despite his long-standing friendship with Margo. She also confronts Margo when necessary, but I've always found those moments appropriate to the circumstances. She seems genuinely motivated by a desire to help. Although we don't see Margo supporting Karen quite as much, since Margo is the one struggling throughout most of the story, their friendship still feels reciprocal.
-
-However, there's one unfortunate detail: Karen is Margo's only close female friend, and she isn't a professional colleague. On its own, this would be completely unremarkable, but alongside the film's other portrayals of female ambition and rivalry, it contributes to the same troubling picture. The only genuinely supportive female friendship exists outside direct professional competition, while the relationship between women pursuing success in the same field is defined by jealousy and betrayal.
-
-Despite that, I still find their friendship incredibly wholesome and enjoyable to watch. Their affection and loyalty feel genuine, and their relationship remains one of the film's greatest strengths.
-
-Ultimately, I'm rating *All About Eve* a 6.5/10 because, while its intrigues are engaging, they're nothing particularly remarkable. At times, the film feels more like a soap opera you'd find your mother watching in the living room than anything especially sophisticated. Still, while the film's exploration of the consequences of career obsession is merely decent, it's elevated by Bette Davis's wonderful performance and charisma. The friendship between Margo and Karen is also genuinely nice to watch.
+Ultimately, I'm rating *All About Eve* a 6.5/10 because, while its intrigues are engaging, they're nothing particularly remarkable. At times, the film feels more like a soap opera you'd find your mother watching in the living room than anything especially sophisticated. Still, while the film's exploration of the consequences of career obsession is merely decent, it's elevated by Bette Davis's wonderful performance and charisma. And despite my reservations about the implications of Margo's best friend being a housewife, their friendship is genuinely wholesome and a pleasure to watch.
