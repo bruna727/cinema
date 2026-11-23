@@ -6,11 +6,19 @@ films:
   - All About Eve
 main_review: true
 image: /cinema/assets/uploads/image-w1280-2.jpg
-description: provisory description
+description: All About Eve remains entreteining enough as a casual watch and an
+  insight about the consequences of being a very career focused person but falls
+  flat in its attempts of a deeper story about female empowerment
 ---
 All About Eve is kind of a mess.
 
 I believe the film is trying to tell a story about female empowerment while incorporating villains, manipulation, and elaborate schemes. Unfortunately, I don't think it executes that combination particularly well.
+
+Some people might interpret *All About Eve* as an exploration of the psychological consequences of working in performance, particularly the toll it can take on one's mental health and sense of identity. However, I would argue that the struggles Margo describes, especially dedicating herself so completely to her profession that she feels disconnected from her true self, are applicable to virtually anyone who becomes overly consumed by their career. There's nothing inherently exclusive to actors or artists about losing yourself in your work.
+
+Where Margo's profession as an actress actually becomes relevant is in the film's exploration of beauty standards. As an actress, she faces particularly intense beauty standards and the pressure of aging in an industry that places so much value on women's appearances. This is where the film begins to intertwine its commentary on career ambition with its treatment of womanhood.
+
+I actually think Margo's struggle with having become so absorbed in her career that she's forgotten how to live a life beyond it is handled very well, and Bette Davis portrays her emotional breakdowns marvelously.
 
 The film starts by portraying Margo as unnecessarily hostile toward Eve, initially because she suspects Eve is trying to steal her boyfriend, and later simply because she finds her irritating and is jealous of her youth. However, the story eventually validates Margo's paranoia and rude behavior by revealing that Eve really does have ulterior motives. The problem is that Margo had no legitimate reason to know this beforehand. She merely happened to be correct, and her prior hostility, rooted in patriarchally conditioned jealousy, is retrospectively vindicated by sheer coincidence.
 
@@ -38,4 +46,4 @@ However, there's one unfortunate detail: Karen is Margo's only close female frie
 
 Despite that, I still find their friendship incredibly wholesome and enjoyable to watch. Their affection and loyalty feel genuine, and their relationship remains one of the film's greatest strengths.
 
-Ultimately, it's this portrayal of female friendship, combined with the fact that the film's intrigues remain entertaining despite my problems with their execution and implications, that makes me give All About Eve 3 stars rather than a lower rating.
+Ultimately, it's this portrayal of female friendship, combined with the fact that the film's intrigues remain entertaining despite my problems with their execution and implications, that makes me give All About Eve 6,5/10 rather than a lower rating.
